@@ -6,6 +6,8 @@ $\textsf{\color{#22C1C3}{Y}\color{#23C0C1}{e}\color{#25C0C0}{s}}$ $\textsf{\colo
 
 $\textsf{\color{#999999}{█}\color{#969696}{█}\color{#939393}{█}\color{#909090}{█}\color{#8D8D8D}{█}\color{#8A8A8A}{█}\color{#888888}{█}\color{#858585}{█}\color{#828282}{█}\color{#7F7F7F}{█}\color{#7C7C7C}{█}\color{#797979}{█}\color{#777777}{█}\color{#747474}{█}\color{#717171}{█}\color{#6E6E6E}{█}\color{#6B6B6B}{█}\color{#686868}{█}\color{#666666}{█}\color{#636363}{█}\color{#606060}{█}\color{#5D5D5D}{█}\color{#5A5A5A}{█}\color{#575757}{█}\color{#555555}{█}\color{#525252}{█}\color{#4F4F4F}{█}\color{#4C4C4C}{█}\color{#494949}{█}\color{#464646}{█}\color{#444444}{█}\color{#414141}{█}\color{#3E3E3E}{█}\color{#3B3B3B}{█}\color{#383838}{█}\color{#353535}{█}\color{#333333}{█}\color{#303030}{█}\color{#2D2D2D}{█}\color{#2A2A2A}{█}\color{#272727}{█}\color{#242424}{█}\color{#222222}{█}\color{#1F1F1F}{█}\color{#1C1C1C}{█}\color{#191919}{█}\color{#161616}{█}\color{#131313}{█}\color{#111111}{█}}$
 
-![E](TODO)
+Cool separator above :3
 
-![E](TODO)
+![E](https://raw.githubusercontent.com/UwUDev/readme_tools/f0036c25c36d2f601df5561af0d3a23b452795b5/gradient1.svg)
+
+![E](https://raw.githubusercontent.com/UwUDev/readme_tools/f0036c25c36d2f601df5561af0d3a23b452795b5/gradient2.svg)
