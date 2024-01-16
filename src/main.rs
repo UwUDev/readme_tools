@@ -145,6 +145,18 @@ fn gradient_text_svg(
     map_length.insert("Y", 9.0);
     map_length.insert("Z", 8.2);
 
+
+    map_length.insert("1", 6.3);
+    map_length.insert("2", 7.3);
+    map_length.insert("3", 7.3);
+    map_length.insert("4", 7.3);
+    map_length.insert("5", 7.3);
+    map_length.insert("6", 7.3);
+    map_length.insert("7", 7.3);
+    map_length.insert("8", 7.3);
+    map_length.insert("9", 7.3);
+    map_length.insert("0", 7.3);
+
     map_length.insert(" ", 5.3);
     map_length.insert("!", 3.4);
     map_length.insert("?", 7.3);
@@ -264,7 +276,7 @@ fn main() {
 
     let start_color = convert_hex_color_to_rgb("#3f5efb").unwrap();
     let end_color = convert_hex_color_to_rgb("#fc466b").unwrap();
-    let separator = gradient_text_svg(start_color, end_color, 1.0,"You can also generate a svg file with a gradient text, but you need to specify the scale factor, the text and the colors.");
+    let separator = gradient_text_svg(start_color, end_color, 1.0,"You can also generate a svg file with a gradient text, but you need to     specify the scale factor, the text and the colors. (1.0 is github default fontsize)");
     let file = std::fs::File::create("gradient1.svg").unwrap();
     let mut file = std::io::BufWriter::new(file);
     file.write_all(separator.unwrap().as_bytes()).unwrap();
