@@ -8,6 +8,6 @@ $\textsf{\color{#999999}{█}\color{#969696}{█}\color{#939393}{█}\color{#909
 
 Cool separator above :3
 
-![E](https://raw.githubusercontent.com/UwUDev/readme_tools/f0036c25c36d2f601df5561af0d3a23b452795b5/gradient1.svg)
+![E](https://raw.githubusercontent.com/UwUDev/readme_tools/51f356c421c6bfd3546b4f0439208c1a718ce959/gradient1.svg)
 
 ![E](https://raw.githubusercontent.com/UwUDev/readme_tools/f0036c25c36d2f601df5561af0d3a23b452795b5/gradient2.svg)
